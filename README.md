@@ -1,2 +1,2 @@
 # forsumi
-[Bubu Dudu Valentine](https://bubu-dudu-valentine.netlify.app)
+[forsumi](https://for-sumi-valentine.netlify.app)
